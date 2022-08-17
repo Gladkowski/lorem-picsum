@@ -1,6 +1,6 @@
 # lorem_picsum
 
-A new Flutter project.
+A simple implementation of [Lorem Picsum](https://picsum.photos/) API.
 
 ## Getting Started
 
